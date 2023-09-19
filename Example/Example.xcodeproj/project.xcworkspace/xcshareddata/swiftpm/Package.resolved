@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "wwprint",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWPrint",
+      "state" : {
+        "revision" : "6b70fabaa1dbeac95b224384819e231a1220900a",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "wwsigninwith3rd_apple",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWSignInWith3rd_Apple",
+      "state" : {
+        "revision" : "1ce4cd07417ccce606d507db07f5c5b6b57e5a3e",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "wwsigninwith3rd_weibo",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWSignInWith3rd_Weibo",
+      "state" : {
+        "branch" : "main",
+        "revision" : "76cdfad1c06284e8ce6b9283ba9c1440b8539e98"
+      }
+    }
+  ],
+  "version" : 2
+}
