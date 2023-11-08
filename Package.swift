@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "WWSignInWith3rd+Wechat",
+    name: "WWSignInWith3rd+Weibo",
     platforms: [
         .iOS(.v14),
     ],
